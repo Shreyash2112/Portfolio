@@ -191,7 +191,7 @@ h3 {
 }
 
 .subtitle {
-	text-transform: uppercase;
+	text-transform: none;
 	letter-spacing: 2px;
 	font-size: clamp(1.2rem, 1vw, 1.35rem);
 	color: var(--accent-clr);
